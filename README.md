@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rmiglin/rmiglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently seeking full-time employment
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rossmiglin@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love handcrafts! (woodworking, cross-stitching, fixing anything that's broken!)
--->
